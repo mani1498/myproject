@@ -1,8 +1,8 @@
 <?php 
 
-$new=  'Hi welcome';
+$test=  'Hi welcome';
 
-echo $new;
+echo $test;
 
-print_r($new);exit;
+print_r($test);exit;
 ?>
