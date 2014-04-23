@@ -1,6 +1,6 @@
 <?php 
 
-$new=  'Hi welcome';
+$new=  'Hi';
 
 echo $new;
 
